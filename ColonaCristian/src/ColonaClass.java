@@ -22,7 +22,7 @@ public class ColonaClass {
 		val1 = val1 * b;
 		}
 		return val1;
-		}
+		}  //...
 	
 	/**
 	 * 
